@@ -13,4 +13,3 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Divyarajsinh-Dodia's GitHub | Languages Over Time](https://stats.quira.sh/Divyarajsinh-Dodia/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Divyarajsinh-Dodia)
