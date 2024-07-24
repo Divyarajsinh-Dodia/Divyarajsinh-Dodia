@@ -13,4 +13,3 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Divyarajsinh-Dodia's GitHub | Stats](https://stats.quira.sh/Divyarajsinh-Dodia/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Divyarajsinh-Dodia)
