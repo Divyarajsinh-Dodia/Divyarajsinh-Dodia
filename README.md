@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Divyarajsinh Dodia</h1>
 <h3 align="center">QA Engineer Extraordinaire | Expert in Manual, Automation, API, and Performance Testing</h3>
 
