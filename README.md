@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently engaged in performance testing for Microsoft D365 CRM, F&O, PowerApps Portal, and SCM.<br>I am interested in collaborating on open-source automation tools and projects.<br>I am learning API Automation.<br>Feel free to ask me about Manual Testing, API Testing, Automation Testing, or Performance Testing. If you need assistance with creating CI/CD pipelines for any of these testing types, don't hesitate to reach out.<br>In software testing, 85% is understanding the problem, 15% is using the tools to solve it.
+I am currently engaged in performance testing for Microsoft D365 CRM, F&O, PowerApps Portal, and SCM.<br><br>I am interested in collaborating on open-source automation tools and projects.<br><br>I am learning API Automation.<br><br>Feel free to ask me about Manual Testing, API Testing, Automation Testing, or Performance Testing. If you need assistance with creating CI/CD pipelines for any of these testing types, don't hesitate to reach out.<br><br>In software testing, 85% is understanding the problem, 15% is using the tools to solve it.
 
 
 ## 🌐 Socials:
